@@ -12,5 +12,3 @@ https://github.com/coding-boot-camp/fantastic-umbrellafor for the starter code
 ## License
 See LICENSE in the repo.
 
-## url and screenshot
-
